@@ -1,0 +1,11 @@
+The data from the original paper was stored in the European Nucleotide Archive.
+```bash http://www.ebi.ac.uk/ena ```
+
+The  accession number for the sequences of the soil microbiome is PRJEB53587.
+```bash https://www.ebi.ac.uk/ena/data/view/PRJEB53587 ```
+
+The  accession number for the sequences of the root microbiome is PRJEB56590.
+```bash https://www.ebi.ac.uk/ena/data/view/PRJEB56590 ```
+
+
+The github repository containing the paper's orginal code is located at ```bash https://github.com/PMI-Basel/Lutz_et_al_Predicting_crop_yield```
